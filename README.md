@@ -1,4 +1,4 @@
-# ocr-dbnet-crnn
+# OCR-dbnet-crnn
 faster-rcnn检测图片里的证件照，dbnet检测证件照里的文字，crnn识别文字
 本套程序旨在实现一个身份证全卡面文字解析的功能，程序里使用到的模型文件从百度网盘下载，
 链接: https://pan.baidu.com/s/1-RV0QFbV_0TiuDYJZ5nE5g  密码: 9f9o
